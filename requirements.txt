@@ -67,7 +67,6 @@ ml_dtypes==0.5.1
 mpmath==1.3.0
 multidict==6.4.3
 multiprocess==0.70.16
-mysql-connector-python==9.2.0
 namex==0.0.8
 narwhals==1.29.1
 networkx==3.4.2
@@ -83,8 +82,6 @@ pillow==11.0.0
 propcache==0.3.1
 proto-plus==1.26.1
 protobuf==5.28.3
-psycopg2==2.9.10
-psycopg2-binary==2.9.10
 pyarrow==19.0.1
 pyasn1==0.6.1
 pyasn1_modules==0.4.2
